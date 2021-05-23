@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794743998081",
+    "project_id": "imagestoreinfirebase-3cd7c",
+    "storage_bucket": "imagestoreinfirebase-3cd7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794743998081:android:a65957d09a8c0ef6f32f80",
+        "android_client_info": {
+          "package_name": "com.example.imagestoreinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794743998081-amd10q9qkkkg8gcr42s36ibpe45r8aj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VDFncrU_y9xgtJcnhM678_LC-8ylvso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794743998081-amd10q9qkkkg8gcr42s36ibpe45r8aj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
